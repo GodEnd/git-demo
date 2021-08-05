@@ -4,3 +4,4 @@ master
 hot-fix
 git
 demo
+github-git-demo
