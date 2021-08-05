@@ -5,3 +5,4 @@ hot-fix
 git
 demo
 github-git-demo
+vscode
